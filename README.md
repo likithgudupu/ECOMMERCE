@@ -22,7 +22,7 @@ The eCommerce company faced challenges with:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](Ecommerce_Dashboard.pbix)
+![Dashboard Preview](ecommerce_dashboard.png)
 
 ---
 ## 📊 Dataset
