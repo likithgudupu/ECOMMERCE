@@ -18,7 +18,13 @@ The eCommerce company faced challenges with:
 - Significant gaps between high-value and low-value customers
 
 ---
+---
 
+# 📷 Dashboard Preview
+
+![Dashboard Preview](Ecommerce_Dashboard.pbix)
+
+---
 ## 📊 Dataset
 - **Type:** eCommerce transactional data
 - **Contains:** Customer ID, purchase date, order frequency, and monetary value
